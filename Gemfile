@@ -7,9 +7,9 @@ gem 'rails', '4.2.3'
 gem 'pg'
 
 group :development do 
-gem 'rspec-rails', '~>2.8'
+gem 'rspec-rails', '2.0.1'
 end
 
 group :test do
-gem 'rspec-rails','~>2.8'
+gem 'rspec-rails','2.0.1'
 end
